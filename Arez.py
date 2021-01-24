@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Arez
+#The Credit For This Code Goes To TLYAK
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,21 +110,20 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:ArezBashdar
+#Dev:TLYAK
 ##### LOGO #####
-logo =   
+logo = """
+
+
+    _____ _    _           _______    _ _   _ 
+   / ____| |  | |   /\    |___  / |  | | \ | |
+  | (___ | |__| |  /  \      / /| |__| |  \| |
+   \___ \|  __  | / /\ \    / / |  __  | . ` |
+   ____) | |  | |/ ____ \  / /__| |  | | |\  |
+  |_____/|_|  |_/_/    \_\/_____|_|  |_|_| \_|
+                                              
                                               
 
-  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZ    
- AAAAA   RR    RR   EE                  ZZ
-AA   AA  RRRRRR     EE                ZZ
-AAAAAAA  RRRR       EEEEEE          ZZ
-AA   AA  RR RR      EE            ZZ
-AA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
-MyTelegram : @Ravo_M
-2 Telegram : @Shazhn
-MyChanell  : @ArezBashdar
-$$$$$$$$$$$$$$$$$$Ravo$$$$$$$$$$$$$$$$$$
 
 """
 
@@ -146,14 +145,13 @@ vuln = "\033[97mVuln"
 os.system("clear")
 print  """
 #######################
-ME| </>Arez</>
-TLEGRAM CHANAL | System Zone
-ME TLEGRAM | @Ravo_m
+ME| </>TLYAK</>
+TLEGRAM CHANAL | SHEXA ShexaCracker
+ME TLEGRAM | @MrDAEJEL
 #######################
- ""
-
-CorrectUsername = "Arez"
-CorrectPassword = "Shazhn"
+ """
+CorrectUsername = "1"
+CorrectPassword = "1"
 
 loop = 'true'
 while (loop == 'true'):
