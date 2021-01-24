@@ -115,16 +115,16 @@ def phone():
 logo =   
                                               
 
-\033[1;91m  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZZ
-\033[1;92m AAAAA   RR    RR   EE                  ZZ
-\033[1;92mAA   AA  RRRRRR     EE                ZZ
-\033[1;93mAAAAAAA  RRRR       EEEEEE          ZZ
-\033[1;94mAA   AA  RR RR      EE            ZZ
-\033[1;95mAA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
-\033[1;99mMyTelegram : \033[1;91m@Ravo_M
-\033[1;92m2 Telegram : \033[1;91m@Shazhn
-\033[1;95mMyChanell  : \033[1;91m@ArezBashdar
-\033[1;94m$$$$$$$$$$$$$$$$$$\033[1;91mRavo\033[1;94m$$$$$$$$$$$$$$$$$$
+  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZ    
+ AAAAA   RR    RR   EE                  ZZ
+AA   AA  RRRRRR     EE                ZZ
+AAAAAAA  RRRR       EEEEEE          ZZ
+AA   AA  RR RR      EE            ZZ
+AA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
+MyTelegram : @Ravo_M
+2 Telegram : @Shazhn
+MyChanell  : @ArezBashdar
+$$$$$$$$$$$$$$$$$$Ravo$$$$$$$$$$$$$$$$$$
 
 """
 
@@ -151,6 +151,7 @@ TLEGRAM CHANAL | System Zone
 ME TLEGRAM | @Ravo_m
 #######################
  ""
+
 CorrectUsername = "Arez"
 CorrectPassword = "Shazhn"
 
