@@ -150,8 +150,7 @@ ME| </>Arez</>
 TLEGRAM CHANAL | System Zone
 ME TLEGRAM | @Ravo_m
 #######################
- """
-tkaya lera username and password bnusa.!
+ ""
 CorrectUsername = "Arez"
 CorrectPassword = "Shazhn"
 
