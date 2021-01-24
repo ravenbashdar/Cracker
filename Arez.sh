@@ -110,16 +110,21 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:TLYAK
+#Dev:ArezBashdar
 ##### LOGO #####
 logo =   
                                               
-   -
-  - -
- -  -
--    -
--    -
--    -
+
+\033[1;91m  AAA    RRRRRRR    EEEEEEEEE    ZZZZZZZZZZ
+\033[1;92m AAAAA   RR    RR   EE                  ZZ
+\033[1;92mAA   AA  RRRRRR     EE                ZZ
+\033[1;93mAAAAAAA  RRRR       EEEEEE          ZZ
+\033[1;94mAA   AA  RR RR      EE            ZZ
+\033[1;95mAA   AA  RR  RR     EEEEEEEEE   ZZZZZZZZZZZ
+\033[1;99mMyTelegram : \033[1;91m@Ravo_M
+\033[1;92m2 Telegram : \033[1;91m@Shazhn
+\033[1;95mMyChanell  : \033[1;91m@ArezBashdar
+\033[1;94m$$$$$$$$$$$$$$$$$$\033[1;91mRavo\033[1;94m$$$$$$$$$$$$$$$$$$
 
 """
 
@@ -141,13 +146,14 @@ vuln = "\033[97mVuln"
 os.system("clear")
 print  """
 #######################
-ME| </>TLYAK</>
-TLEGRAM CHANAL | SHEXA ShexaCracker
-ME TLEGRAM | @MrDAEJEL
+ME| </>Arez</>
+TLEGRAM CHANAL | System Zone
+ME TLEGRAM | @Ravo_m
 #######################
  """
-CorrectUsername = "1"
-CorrectPassword = "1"
+tkaya lera username and password bnusa.!
+CorrectUsername = "Arez"
+CorrectPassword = "Shazhn"
 
 loop = 'true'
 while (loop == 'true'):
